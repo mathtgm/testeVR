@@ -1,0 +1,16 @@
+vrsoftware.aplicativoteste
+vrsoftware.aplicativoteste.controller.cliente
+vrsoftware.aplicativoteste.controller.config
+vrsoftware.aplicativoteste.controller.database
+vrsoftware.aplicativoteste.controller.produto
+vrsoftware.aplicativoteste.controller.venda
+vrsoftware.aplicativoteste.controller.vendaitem
+vrsoftware.aplicativoteste.model
+vrsoftware.aplicativoteste.model.tabelaVenda
+vrsoftware.aplicativoteste.statusenum
+vrsoftware.aplicativoteste.view
+vrsoftware.aplicativoteste.view.cliente
+vrsoftware.aplicativoteste.view.document
+vrsoftware.aplicativoteste.view.menuInicial
+vrsoftware.aplicativoteste.view.produto
+vrsoftware.aplicativoteste.view.venda
