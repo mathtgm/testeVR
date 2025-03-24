@@ -14,7 +14,7 @@ Isso fará com que o banco de dados já montado inicie.
 
 #### Opção 2. Via Projeto
 No menu inicial na parte superior há um menu chamado <strong>Configuração</strong> ao clicar nele abrirá uma janela com a opção de criar as tabelas do banco de dados.
-<img src=".git/imagens/via_projeto.gif">
+<img src="./imagens/via_projeto.gif">
 
 
 ### 💻 Variaveis de ambiente
