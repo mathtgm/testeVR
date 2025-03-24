@@ -13,7 +13,7 @@ Na pasta raiz do projeto ha um arquivo <strong>docker-compose.yml</strong>, abra
 Isso fará com que o banco de dados já montado inicie.
 
 #### Opção 2. Via Projeto
-No menu inicial na parte superior há um menu chamado <strong>Configuração</strong> ao clicar nele abrirá uma janela com a opção de criar as tabelas do banco de dados.
+No menu inicial na parte superior há um menu chamado <strong>Configuração</strong> ao clicar nele abrirá uma janela com a opção de criar as tabelas do banco de dados.<br>
 <img src="./imagens/via_projeto.gif">
 
 
